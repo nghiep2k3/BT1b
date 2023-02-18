@@ -1,0 +1,25 @@
+
+
+h1{
+    color: blue;
+}
+
+#text1, #text2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 20px;
+    font-size: 20px;
+    height: 30px;
+    color: blue;
+}
+
+#mg{
+    font-size: 20px;
+    margin: 20px 20px 0 20px;
+    color: blue;
+}
+
+.color{
+    background-color: orange;
+}
